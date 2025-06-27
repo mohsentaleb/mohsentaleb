@@ -1,8 +1,12 @@
-<img src="https://github.com/user-attachments/assets/b5c640fc-3023-4176-a5f8-c8911092a40d" style="width: 50%; height: auto;" />
+Aloha! 👋
 
-👨‍💻 About Me
-I specialize in the impossible:
+- **What people think I do**: The guy who knows how to center two `<div>`s<br />
+- **What my mom thinks I do:** Typing really fast.<br />
+- **What I actually do**: Creating full-stack applications and sometimes [libraries](https://www.npmjs.com/package/react-tailwindcss-datetimepicker) with JS/TS while hating coffee.
 
-- ✅ Centering two `<div>`s perfectly inside each other.
-- ✅ Building web apps.
-- ❌ Explaining to non-devs what I actually do
+My Publications:<br />
+![Image](https://img.shields.io/badge/-@mohsentaleb-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=)
+
+<img src="https://github.com/user-attachments/assets/b12b39a7-6703-4ef2-aebd-31edc0c826af" style="width: 20%; height: auto;" />
+
+
